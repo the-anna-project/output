@@ -1,3 +1,4 @@
+// Package text provides a simple object for receiving text output.
 package text
 
 import (
